@@ -1,10 +1,3 @@
-'''
-python -m ensurepip --upgrade
-python -m pip install Pillow transformers torch
-python -m pip install python-dotenv
-python -m pip install google-genai
-'''
-
 import argparse
 import os
 from time import time
