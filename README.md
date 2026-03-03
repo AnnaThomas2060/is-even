@@ -10,7 +10,7 @@ This is an attempt to create the world's most unnecessarily complex CLI tool for
 
 - High-Level Logics: Utilizing the cutting-edge `n % 2 == 0` algorithm, the system determines the even/odd nature of the integer.
 
-- Mathematical Poetry: The digit and its mathematical status are dynamically fed into the Gemini 2.0 Flash API.
+- Mathematical Poetry: The digit and its mathematical status are dynamically fed into the Gemini 3 Flash API.
 
 - The Output: A completely unhinged ASCII-art mascot delivers 4-line dramatic poem about the revelation.
 
