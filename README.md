@@ -12,7 +12,7 @@ This is an attempt to create the world's most unnecessarily complex CLI tool for
 
 - Mathematical Poetry: The digit and its mathematical status are dynamically fed into the Gemini 3 Flash API.
 
-- The Output: A completely unhinged ASCII-art mascot delivers 4-line dramatic poem about the revelation.
+- The Output: A completely unhinged ASCII-art mascot delivers a 4-line dramatic poem about the revelation.
 
 
 ### Tech Stack
